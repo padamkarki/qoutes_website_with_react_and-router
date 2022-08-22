@@ -1,5 +1,5 @@
 const QuoteDetail = () => {
-  return;
+  return <h1>Quotes Detail Page</h1>;
 };
 
 export default QuoteDetail;
