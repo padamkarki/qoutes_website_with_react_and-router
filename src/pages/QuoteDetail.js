@@ -43,7 +43,7 @@ const QuoteDetail = () => {
     return <p>No Quote found!</p>;
   }
 
-  if (!quote) {
+  if (!loadedQuote) {
     return <p>No Quote Found!</p>;
   }
 
